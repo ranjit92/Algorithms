@@ -1,5 +1,4 @@
-import com.ranjit.algo.datastructures.dynamicarray.DynamicArray;
-
+package com.ranjit.algo.datastructures.dynamicarray;
 public class MainClass {
 
 
@@ -15,5 +14,7 @@ public class MainClass {
 		System.out.println(da.contains(13));
 		da.remove(10);
 		System.out.println(da.indexOf(10));
+		
 	}
+	
 }
