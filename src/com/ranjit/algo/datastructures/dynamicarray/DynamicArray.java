@@ -1,6 +1,5 @@
 package com.ranjit.algo.datastructures.dynamicarray;
 
-import java.util.Arrays;
 import java.util.Iterator;
 
 public class DynamicArray<T> implements Iterable<T> {
