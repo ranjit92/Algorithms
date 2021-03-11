@@ -13,6 +13,7 @@ public class BSTTest {
 		bst.add(3);
 		bst.add(5);
 		bst.add(2);
+		bst.add(10);
 //		bst.remove(3);
 		print(bst.traverse(TreeTraversalOrder.PRE_ORDER));
 		System.out.println();
